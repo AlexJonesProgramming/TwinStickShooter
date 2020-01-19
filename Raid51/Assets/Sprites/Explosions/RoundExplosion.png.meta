@@ -1,0 +1,3264 @@
+fileFormatVersion: 2
+guid: b8872d12598778f4c8744333b42ccce3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4868322531500439159
+    second: RoundExplosion_0
+  - first:
+      213: -4940524317232446815
+    second: RoundExplosion_1
+  - first:
+      213: 220500271445388165
+    second: RoundExplosion_2
+  - first:
+      213: 6873738943896769840
+    second: RoundExplosion_3
+  - first:
+      213: 3782734282106808808
+    second: RoundExplosion_4
+  - first:
+      213: -4806294547619058364
+    second: RoundExplosion_5
+  - first:
+      213: -6131833038425832860
+    second: RoundExplosion_6
+  - first:
+      213: 4912687696285251701
+    second: RoundExplosion_7
+  - first:
+      213: -3697295553384210048
+    second: RoundExplosion_8
+  - first:
+      213: -58353164597626231
+    second: RoundExplosion_9
+  - first:
+      213: -6678447095662885113
+    second: RoundExplosion_10
+  - first:
+      213: 8637022439770161106
+    second: RoundExplosion_11
+  - first:
+      213: 2317534848761090736
+    second: RoundExplosion_12
+  - first:
+      213: 3695058350751492248
+    second: RoundExplosion_13
+  - first:
+      213: -8411193786186794781
+    second: RoundExplosion_14
+  - first:
+      213: 2506946123828955774
+    second: RoundExplosion_15
+  - first:
+      213: -865685762673839113
+    second: RoundExplosion_16
+  - first:
+      213: 6647596432369997064
+    second: RoundExplosion_17
+  - first:
+      213: -5894390678704683347
+    second: RoundExplosion_18
+  - first:
+      213: -5387563185873788185
+    second: RoundExplosion_19
+  - first:
+      213: -3207152669094066296
+    second: RoundExplosion_20
+  - first:
+      213: 2631281047380555087
+    second: RoundExplosion_21
+  - first:
+      213: -3674409266036839760
+    second: RoundExplosion_22
+  - first:
+      213: 7925475821505726172
+    second: RoundExplosion_23
+  - first:
+      213: 3740521366410625458
+    second: RoundExplosion_24
+  - first:
+      213: -834060099894142423
+    second: RoundExplosion_25
+  - first:
+      213: -8635303553782798439
+    second: RoundExplosion_26
+  - first:
+      213: -2410447817198034460
+    second: RoundExplosion_27
+  - first:
+      213: -4543276980654179831
+    second: RoundExplosion_28
+  - first:
+      213: 5966024330157579932
+    second: RoundExplosion_29
+  - first:
+      213: -8761829393555894507
+    second: RoundExplosion_30
+  - first:
+      213: -6500173142779454300
+    second: RoundExplosion_31
+  - first:
+      213: -8933229835941594900
+    second: RoundExplosion_32
+  - first:
+      213: 7029934142117535693
+    second: RoundExplosion_33
+  - first:
+      213: -876346002557194672
+    second: RoundExplosion_34
+  - first:
+      213: -4624379187360305741
+    second: RoundExplosion_35
+  - first:
+      213: 2012782810929002256
+    second: RoundExplosion_36
+  - first:
+      213: 2736537586135345802
+    second: RoundExplosion_37
+  - first:
+      213: -864084505611325430
+    second: RoundExplosion_38
+  - first:
+      213: 219957881936955281
+    second: RoundExplosion_39
+  - first:
+      213: 7367082213586647742
+    second: RoundExplosion_40
+  - first:
+      213: 165967381183163677
+    second: RoundExplosion_41
+  - first:
+      213: -8414827491872030897
+    second: RoundExplosion_42
+  - first:
+      213: 545496708435894723
+    second: RoundExplosion_43
+  - first:
+      213: -4943693057529745812
+    second: RoundExplosion_44
+  - first:
+      213: 8515427418342955532
+    second: RoundExplosion_45
+  - first:
+      213: -2223399699939889705
+    second: RoundExplosion_46
+  - first:
+      213: -3275439112122173243
+    second: RoundExplosion_47
+  - first:
+      213: -7864596894261902414
+    second: RoundExplosion_48
+  - first:
+      213: -1028955063464941758
+    second: RoundExplosion_49
+  - first:
+      213: 1798664923461695165
+    second: RoundExplosion_50
+  - first:
+      213: -5305358254406081055
+    second: RoundExplosion_51
+  - first:
+      213: 1702483274762490864
+    second: RoundExplosion_52
+  - first:
+      213: -4650527217538175659
+    second: RoundExplosion_53
+  - first:
+      213: -5099606884704957099
+    second: RoundExplosion_54
+  - first:
+      213: 5981260829182881223
+    second: RoundExplosion_55
+  - first:
+      213: -7468610785537392711
+    second: RoundExplosion_56
+  - first:
+      213: 4370930966822654473
+    second: RoundExplosion_57
+  - first:
+      213: 6163991870178888368
+    second: RoundExplosion_58
+  - first:
+      213: -8517998515918695966
+    second: RoundExplosion_59
+  - first:
+      213: 1772269703776158352
+    second: RoundExplosion_60
+  - first:
+      213: -6296331240591624641
+    second: RoundExplosion_61
+  - first:
+      213: -6494632378144435265
+    second: RoundExplosion_62
+  - first:
+      213: -5903135883874859121
+    second: RoundExplosion_63
+  - first:
+      213: -175215653674010667
+    second: RoundExplosion_64
+  - first:
+      213: -6809162617282077590
+    second: RoundExplosion_65
+  - first:
+      213: 5730294775129502407
+    second: RoundExplosion_66
+  - first:
+      213: 4293780420682865746
+    second: RoundExplosion_67
+  - first:
+      213: 6040486116664507341
+    second: RoundExplosion_68
+  - first:
+      213: -970453264865902748
+    second: RoundExplosion_69
+  - first:
+      213: 7066343520671433298
+    second: RoundExplosion_70
+  - first:
+      213: 8960428954098117555
+    second: RoundExplosion_71
+  - first:
+      213: -7421274540392853533
+    second: RoundExplosion_72
+  - first:
+      213: -4987617905873217566
+    second: RoundExplosion_73
+  - first:
+      213: 4495607119658479438
+    second: RoundExplosion_74
+  - first:
+      213: 8478247200951509940
+    second: RoundExplosion_75
+  - first:
+      213: -1074332978475496105
+    second: RoundExplosion_76
+  - first:
+      213: 4860928005781095289
+    second: RoundExplosion_77
+  - first:
+      213: 4229815485280524398
+    second: RoundExplosion_78
+  - first:
+      213: 33381483465045249
+    second: RoundExplosion_79
+  - first:
+      213: 3462357042714403857
+    second: RoundExplosion_80
+  - first:
+      213: 8684543264552929977
+    second: RoundExplosion_81
+  - first:
+      213: -1028231862343614440
+    second: RoundExplosion_82
+  - first:
+      213: -3790836739442510982
+    second: RoundExplosion_83
+  - first:
+      213: 6225617511741353406
+    second: RoundExplosion_84
+  - first:
+      213: 955371102643033918
+    second: RoundExplosion_85
+  - first:
+      213: 7972825291875062087
+    second: RoundExplosion_86
+  - first:
+      213: -2124040728904111231
+    second: RoundExplosion_87
+  - first:
+      213: -4760644237625767066
+    second: RoundExplosion_88
+  - first:
+      213: -2432682966813380518
+    second: RoundExplosion_89
+  - first:
+      213: -3765339054054673972
+    second: RoundExplosion_90
+  - first:
+      213: -8669143188622822242
+    second: RoundExplosion_91
+  - first:
+      213: 7263725769392440725
+    second: RoundExplosion_92
+  - first:
+      213: -7727199638964330092
+    second: RoundExplosion_93
+  - first:
+      213: 3648808786580876898
+    second: RoundExplosion_94
+  - first:
+      213: -8306625283517339432
+    second: RoundExplosion_95
+  - first:
+      213: 3872907470579668078
+    second: RoundExplosion_96
+  - first:
+      213: 1714703220736835278
+    second: RoundExplosion_97
+  - first:
+      213: -3062066225055367221
+    second: RoundExplosion_98
+  - first:
+      213: -3526491955361759854
+    second: RoundExplosion_99
+  - first:
+      213: 8082348835691508497
+    second: RoundExplosion_100
+  - first:
+      213: -8424634086354265637
+    second: RoundExplosion_101
+  - first:
+      213: -1109311674615157539
+    second: RoundExplosion_102
+  - first:
+      213: -491161581738708792
+    second: RoundExplosion_103
+  - first:
+      213: -2148933215098337538
+    second: RoundExplosion_104
+  - first:
+      213: -6077187924351624666
+    second: RoundExplosion_105
+  - first:
+      213: 4383300605608395744
+    second: RoundExplosion_106
+  - first:
+      213: -4517059587716219424
+    second: RoundExplosion_107
+  - first:
+      213: -3418146314552215168
+    second: RoundExplosion_108
+  - first:
+      213: -5494895931589917161
+    second: RoundExplosion_109
+  - first:
+      213: 861128662047105982
+    second: RoundExplosion_110
+  - first:
+      213: 5116515362435547962
+    second: RoundExplosion_111
+  - first:
+      213: -2652411324961528544
+    second: RoundExplosion_112
+  - first:
+      213: 2547781657316967532
+    second: RoundExplosion_113
+  - first:
+      213: -3843003895403819692
+    second: RoundExplosion_114
+  - first:
+      213: 8879299186646510908
+    second: RoundExplosion_115
+  - first:
+      213: -6985621995453284934
+    second: RoundExplosion_116
+  - first:
+      213: -651385026608864965
+    second: RoundExplosion_117
+  - first:
+      213: -3746892728691300464
+    second: RoundExplosion_118
+  - first:
+      213: 5027452768346740828
+    second: RoundExplosion_119
+  - first:
+      213: 5800852923251481382
+    second: RoundExplosion_120
+  - first:
+      213: 3351664581908969526
+    second: RoundExplosion_121
+  - first:
+      213: -5265753279190754981
+    second: RoundExplosion_122
+  - first:
+      213: -7193893617081312664
+    second: RoundExplosion_123
+  - first:
+      213: 4996277273650793218
+    second: RoundExplosion_124
+  - first:
+      213: 8544139565873075740
+    second: RoundExplosion_125
+  - first:
+      213: 7341348070187062535
+    second: RoundExplosion_126
+  - first:
+      213: 7014027537260723931
+    second: RoundExplosion_127
+  - first:
+      213: -7105066010798676674
+    second: RoundExplosion_128
+  - first:
+      213: -8970002104643065793
+    second: RoundExplosion_129
+  - first:
+      213: -8772421881048251982
+    second: RoundExplosion_130
+  - first:
+      213: 3792242546814584604
+    second: RoundExplosion_131
+  - first:
+      213: -3136563943646355189
+    second: RoundExplosion_132
+  - first:
+      213: 930296796000652501
+    second: RoundExplosion_133
+  - first:
+      213: -2022047013397075403
+    second: RoundExplosion_134
+  - first:
+      213: -8880053357562882626
+    second: RoundExplosion_135
+  - first:
+      213: 1539656333633979846
+    second: RoundExplosion_136
+  - first:
+      213: 8216499892476758004
+    second: RoundExplosion_137
+  - first:
+      213: -4922347631704401484
+    second: RoundExplosion_138
+  - first:
+      213: 5188573777065125249
+    second: RoundExplosion_139
+  - first:
+      213: 5250043725939938135
+    second: RoundExplosion_140
+  - first:
+      213: -60081842754292940
+    second: RoundExplosion_141
+  - first:
+      213: -3203258450330343720
+    second: RoundExplosion_142
+  - first:
+      213: 880774915200022099
+    second: RoundExplosion_143
+  - first:
+      213: -2966884918662776492
+    second: RoundExplosion_144
+  - first:
+      213: 1782033288415798367
+    second: RoundExplosion_145
+  - first:
+      213: 5214563570546169694
+    second: RoundExplosion_146
+  - first:
+      213: 6982812653814208570
+    second: RoundExplosion_147
+  - first:
+      213: -3785847696983006206
+    second: RoundExplosion_148
+  - first:
+      213: -2726817443506952177
+    second: RoundExplosion_149
+  - first:
+      213: -4730873922207421269
+    second: RoundExplosion_150
+  - first:
+      213: 2287251045682905941
+    second: RoundExplosion_151
+  - first:
+      213: 5214693272404763324
+    second: RoundExplosion_152
+  - first:
+      213: -271310703924710151
+    second: RoundExplosion_153
+  - first:
+      213: 6794785252220654833
+    second: RoundExplosion_154
+  - first:
+      213: -7564564797731573490
+    second: RoundExplosion_155
+  - first:
+      213: -3768941014657638689
+    second: RoundExplosion_156
+  - first:
+      213: -7634496754622404855
+    second: RoundExplosion_157
+  - first:
+      213: 6722281738679900864
+    second: RoundExplosion_158
+  - first:
+      213: -7591620327730052405
+    second: RoundExplosion_159
+  - first:
+      213: -5918699083942714404
+    second: RoundExplosion_160
+  - first:
+      213: -4272057645548924986
+    second: RoundExplosion_161
+  - first:
+      213: 788209366472751153
+    second: RoundExplosion_162
+  - first:
+      213: 2231265231836217333
+    second: RoundExplosion_163
+  - first:
+      213: 953427644926433503
+    second: RoundExplosion_164
+  - first:
+      213: 1256297931602081001
+    second: RoundExplosion_165
+  - first:
+      213: 1094124210550446911
+    second: RoundExplosion_166
+  - first:
+      213: 2420173932336607662
+    second: RoundExplosion_167
+  - first:
+      213: 3075097189795255880
+    second: RoundExplosion_168
+  - first:
+      213: -3752040516100692228
+    second: RoundExplosion_169
+  - first:
+      213: -6334293631977812387
+    second: RoundExplosion_170
+  - first:
+      213: -456998997129674613
+    second: RoundExplosion_171
+  - first:
+      213: 1161045463273888054
+    second: RoundExplosion_172
+  - first:
+      213: -868489512274681870
+    second: RoundExplosion_173
+  - first:
+      213: -116516745594634177
+    second: RoundExplosion_174
+  - first:
+      213: -4918824715910269894
+    second: RoundExplosion_175
+  - first:
+      213: 6037286707453145509
+    second: RoundExplosion_176
+  - first:
+      213: 421878674030427215
+    second: RoundExplosion_177
+  - first:
+      213: -4194697467180771039
+    second: RoundExplosion_178
+  - first:
+      213: 4199701452158473357
+    second: RoundExplosion_179
+  - first:
+      213: 6268031995656297316
+    second: RoundExplosion_180
+  - first:
+      213: 7323241813080332252
+    second: RoundExplosion_181
+  - first:
+      213: 138179167205281403
+    second: RoundExplosion_182
+  - first:
+      213: -396455232184053371
+    second: RoundExplosion_183
+  - first:
+      213: 8698552162318343266
+    second: RoundExplosion_184
+  - first:
+      213: 8018240035290805854
+    second: RoundExplosion_185
+  - first:
+      213: -4462832005393237653
+    second: RoundExplosion_186
+  - first:
+      213: 4711104253671789031
+    second: RoundExplosion_187
+  - first:
+      213: 94298738812634350
+    second: RoundExplosion_188
+  - first:
+      213: 2245168727723980842
+    second: RoundExplosion_189
+  - first:
+      213: -5773444915568043030
+    second: RoundExplosion_190
+  - first:
+      213: 2658534314374929421
+    second: RoundExplosion_191
+  - first:
+      213: -655591350901530922
+    second: RoundExplosion_192
+  - first:
+      213: 3375463097053496951
+    second: RoundExplosion_193
+  - first:
+      213: -5277260363296361557
+    second: RoundExplosion_194
+  - first:
+      213: 4309929049202566975
+    second: RoundExplosion_195
+  - first:
+      213: -510983253992321170
+    second: RoundExplosion_196
+  - first:
+      213: 6098745412357772299
+    second: RoundExplosion_197
+  - first:
+      213: -6848986004749834479
+    second: RoundExplosion_198
+  - first:
+      213: -5454376362716838152
+    second: RoundExplosion_199
+  - first:
+      213: -1936945849111048711
+    second: RoundExplosion_200
+  - first:
+      213: -5097272029789895638
+    second: RoundExplosion_201
+  - first:
+      213: 8282901015526012281
+    second: RoundExplosion_202
+  - first:
+      213: -8124102346050506890
+    second: RoundExplosion_203
+  - first:
+      213: 2088667903091988415
+    second: RoundExplosion_204
+  - first:
+      213: 9082742319379040070
+    second: RoundExplosion_205
+  - first:
+      213: -7173741239348223789
+    second: RoundExplosion_206
+  - first:
+      213: -4869677554205285221
+    second: RoundExplosion_207
+  - first:
+      213: -169642937164913748
+    second: RoundExplosion_208
+  - first:
+      213: -5565479906104440371
+    second: RoundExplosion_209
+  - first:
+      213: 8624637036529221383
+    second: RoundExplosion_210
+  - first:
+      213: -774889064109226676
+    second: RoundExplosion_211
+  - first:
+      213: -4327349866494499553
+    second: RoundExplosion_212
+  - first:
+      213: -7953398569567122067
+    second: RoundExplosion_213
+  - first:
+      213: -1518481752799315452
+    second: RoundExplosion_214
+  - first:
+      213: -4662536331123474034
+    second: RoundExplosion_215
+  - first:
+      213: 4200590798972123731
+    second: RoundExplosion_216
+  - first:
+      213: -1324968381113806218
+    second: RoundExplosion_217
+  - first:
+      213: -7080646413687738834
+    second: RoundExplosion_218
+  - first:
+      213: -3553164712932290516
+    second: RoundExplosion_219
+  - first:
+      213: -9113105640240322768
+    second: RoundExplosion_220
+  - first:
+      213: 8428012015751868529
+    second: RoundExplosion_221
+  - first:
+      213: -2606171014848291246
+    second: RoundExplosion_222
+  - first:
+      213: -6539941005988520634
+    second: RoundExplosion_223
+  - first:
+      213: -1112319827652104412
+    second: RoundExplosion_224
+  - first:
+      213: 3188003923730316506
+    second: RoundExplosion_225
+  - first:
+      213: 7738686344759227018
+    second: RoundExplosion_226
+  - first:
+      213: -3831781718731649930
+    second: RoundExplosion_227
+  - first:
+      213: 5225963728070975093
+    second: RoundExplosion_228
+  - first:
+      213: 7382660026254647090
+    second: RoundExplosion_229
+  - first:
+      213: -7340759158283031309
+    second: RoundExplosion_230
+  - first:
+      213: -8264446748138469192
+    second: RoundExplosion_231
+  - first:
+      213: 2612975959886818711
+    second: RoundExplosion_232
+  - first:
+      213: -883436732378101605
+    second: RoundExplosion_233
+  - first:
+      213: -2679706722248400
+    second: RoundExplosion_234
+  - first:
+      213: 8998046744263935217
+    second: RoundExplosion_235
+  - first:
+      213: -6650576058252068822
+    second: RoundExplosion_236
+  - first:
+      213: 6649472987319261513
+    second: RoundExplosion_237
+  - first:
+      213: 4247554366721204637
+    second: RoundExplosion_238
+  - first:
+      213: 7680624711686527722
+    second: RoundExplosion_239
+  - first:
+      213: 2310267980817216316
+    second: RoundExplosion_240
+  - first:
+      213: -96859011026626115
+    second: RoundExplosion_241
+  - first:
+      213: -7907470022850838336
+    second: RoundExplosion_242
+  - first:
+      213: -5968945221535430243
+    second: RoundExplosion_243
+  - first:
+      213: 7071334025415303356
+    second: RoundExplosion_244
+  - first:
+      213: -6119998369516817525
+    second: RoundExplosion_245
+  - first:
+      213: -6357712441591487889
+    second: RoundExplosion_246
+  - first:
+      213: -7437086063951419827
+    second: RoundExplosion_247
+  - first:
+      213: 1272523325733141364
+    second: RoundExplosion_248
+  - first:
+      213: 7312844148474914462
+    second: RoundExplosion_249
+  - first:
+      213: -6762270896809410729
+    second: RoundExplosion_250
+  - first:
+      213: -6741267531749738045
+    second: RoundExplosion_251
+  - first:
+      213: -5675739547412525555
+    second: RoundExplosion_252
+  - first:
+      213: -2185827140137899445
+    second: RoundExplosion_253
+  - first:
+      213: 9113153226523212916
+    second: RoundExplosion_254
+  - first:
+      213: 1248809225882291783
+    second: RoundExplosion_255
+  - first:
+      213: 3327708580232180868
+    second: RoundExplosion_256
+  - first:
+      213: 9183873007150414703
+    second: RoundExplosion_257
+  - first:
+      213: -7186288496078039764
+    second: RoundExplosion_258
+  - first:
+      213: 7172486510351539093
+    second: RoundExplosion_259
+  - first:
+      213: -6343521746005573773
+    second: RoundExplosion_260
+  - first:
+      213: -2846663011446792125
+    second: RoundExplosion_261
+  - first:
+      213: -7060506796935496743
+    second: RoundExplosion_262
+  - first:
+      213: -8891669331150653176
+    second: RoundExplosion_263
+  - first:
+      213: -5350818704421016883
+    second: RoundExplosion_264
+  - first:
+      213: 6972402343969572543
+    second: RoundExplosion_265
+  - first:
+      213: 6489040052179133044
+    second: RoundExplosion_266
+  - first:
+      213: -7512381395461863157
+    second: RoundExplosion_267
+  - first:
+      213: 9155941725343562463
+    second: RoundExplosion_268
+  - first:
+      213: 2537658866943333916
+    second: RoundExplosion_269
+  - first:
+      213: -2643061021034953508
+    second: RoundExplosion_270
+  - first:
+      213: -1180858468204080866
+    second: RoundExplosion_271
+  - first:
+      213: 5731460318948371376
+    second: RoundExplosion_272
+  - first:
+      213: 3586773520312436236
+    second: RoundExplosion_273
+  - first:
+      213: 207004391437413708
+    second: RoundExplosion_274
+  - first:
+      213: 3203185823367465783
+    second: RoundExplosion_275
+  - first:
+      213: -6950787773873330816
+    second: RoundExplosion_276
+  - first:
+      213: 5800082809050248623
+    second: RoundExplosion_277
+  - first:
+      213: 8208255295010683249
+    second: RoundExplosion_278
+  - first:
+      213: 5317211243692367003
+    second: RoundExplosion_279
+  - first:
+      213: 6757009850846266917
+    second: RoundExplosion_280
+  - first:
+      213: 1681661495437399341
+    second: RoundExplosion_281
+  - first:
+      213: -267699142157311623
+    second: RoundExplosion_282
+  - first:
+      213: -7798083805041621120
+    second: RoundExplosion_283
+  - first:
+      213: -5060461921417776853
+    second: RoundExplosion_284
+  - first:
+      213: -3066961376194452946
+    second: RoundExplosion_285
+  - first:
+      213: 8889899492780048666
+    second: RoundExplosion_286
+  - first:
+      213: 603287244623751492
+    second: RoundExplosion_287
+  - first:
+      213: -6372774514015732094
+    second: RoundExplosion_288
+  - first:
+      213: 3103395609440003340
+    second: RoundExplosion_289
+  - first:
+      213: 5308450596242516893
+    second: RoundExplosion_290
+  - first:
+      213: 5367956209354841933
+    second: RoundExplosion_291
+  - first:
+      213: 5101203409924641109
+    second: RoundExplosion_292
+  - first:
+      213: -4550122983369888552
+    second: RoundExplosion_293
+  - first:
+      213: -3099362111783079913
+    second: RoundExplosion_294
+  - first:
+      213: 7056744483664426572
+    second: RoundExplosion_295
+  - first:
+      213: -4824815149508426637
+    second: RoundExplosion_296
+  - first:
+      213: 2689252192429367552
+    second: RoundExplosion_297
+  - first:
+      213: 1292667067950754499
+    second: RoundExplosion_298
+  - first:
+      213: 3664086864453657998
+    second: RoundExplosion_299
+  - first:
+      213: -8896542936219999461
+    second: RoundExplosion_300
+  - first:
+      213: -5116133656630710975
+    second: RoundExplosion_301
+  - first:
+      213: 1198165690594432214
+    second: RoundExplosion_302
+  - first:
+      213: 8812844059362964601
+    second: RoundExplosion_303
+  - first:
+      213: -5125231415938960066
+    second: RoundExplosion_304
+  - first:
+      213: 4560063518386069056
+    second: RoundExplosion_305
+  - first:
+      213: -3556409393218652175
+    second: RoundExplosion_306
+  - first:
+      213: -1951038904000211635
+    second: RoundExplosion_307
+  - first:
+      213: 6275796485467885887
+    second: RoundExplosion_308
+  - first:
+      213: -5761323664450632116
+    second: RoundExplosion_309
+  - first:
+      213: -5909357279570273983
+    second: RoundExplosion_310
+  - first:
+      213: -2336443285597714422
+    second: RoundExplosion_311
+  - first:
+      213: -7609555717525184864
+    second: RoundExplosion_312
+  - first:
+      213: -2850207972758664364
+    second: RoundExplosion_313
+  - first:
+      213: -8001417689429314948
+    second: RoundExplosion_314
+  - first:
+      213: 3253959398284952013
+    second: RoundExplosion_315
+  - first:
+      213: -628015547911839894
+    second: RoundExplosion_316
+  - first:
+      213: 3629829473661666144
+    second: RoundExplosion_317
+  - first:
+      213: -2270355129315902543
+    second: RoundExplosion_318
+  - first:
+      213: -5798211330482746200
+    second: RoundExplosion_319
+  - first:
+      213: -6611614917653208859
+    second: RoundExplosion_320
+  - first:
+      213: 7835982077279874736
+    second: RoundExplosion_321
+  - first:
+      213: -3438130766828357447
+    second: RoundExplosion_322
+  - first:
+      213: -3795707477306212108
+    second: RoundExplosion_323
+  - first:
+      213: -4751102763111673146
+    second: RoundExplosion_324
+  - first:
+      213: -1016601723052455280
+    second: RoundExplosion_325
+  - first:
+      213: 3197341023977031863
+    second: RoundExplosion_326
+  - first:
+      213: -1638655613494619108
+    second: RoundExplosion_327
+  - first:
+      213: -3146396184527958923
+    second: RoundExplosion_328
+  - first:
+      213: 5538042247494870901
+    second: RoundExplosion_329
+  - first:
+      213: 5707834998409228566
+    second: RoundExplosion_330
+  - first:
+      213: -9202040928745137523
+    second: RoundExplosion_331
+  - first:
+      213: 372852912585544942
+    second: RoundExplosion_332
+  - first:
+      213: -321732540092656827
+    second: RoundExplosion_333
+  - first:
+      213: 4520738445754032381
+    second: RoundExplosion_334
+  - first:
+      213: 2741307666117613728
+    second: RoundExplosion_335
+  - first:
+      213: 5587496765978440362
+    second: RoundExplosion_336
+  - first:
+      213: -3559935470246399730
+    second: RoundExplosion_337
+  - first:
+      213: -8755643008087680588
+    second: RoundExplosion_338
+  - first:
+      213: -8180430845372735278
+    second: RoundExplosion_339
+  - first:
+      213: 6127338077691934387
+    second: RoundExplosion_340
+  - first:
+      213: 3003051482322919135
+    second: RoundExplosion_341
+  - first:
+      213: -4824722838460844497
+    second: RoundExplosion_342
+  - first:
+      213: -6858835937996438939
+    second: RoundExplosion_343
+  - first:
+      213: -4996029605324834972
+    second: RoundExplosion_344
+  - first:
+      213: 7528873276811854809
+    second: RoundExplosion_345
+  - first:
+      213: 8729555985116856811
+    second: RoundExplosion_346
+  - first:
+      213: 8372330964782339765
+    second: RoundExplosion_347
+  - first:
+      213: -998120230551382494
+    second: RoundExplosion_348
+  - first:
+      213: 2641316610727836924
+    second: RoundExplosion_349
+  - first:
+      213: 2259743406124243731
+    second: RoundExplosion_350
+  - first:
+      213: -8436796969684208234
+    second: RoundExplosion_351
+  - first:
+      213: -2726683705641519021
+    second: RoundExplosion_352
+  - first:
+      213: -9088619207217290394
+    second: RoundExplosion_353
+  - first:
+      213: -7510267132871100096
+    second: RoundExplosion_354
+  - first:
+      213: -7944617026075191114
+    second: RoundExplosion_355
+  - first:
+      213: -5190670622974129476
+    second: RoundExplosion_356
+  - first:
+      213: 7994175842585551661
+    second: RoundExplosion_357
+  - first:
+      213: -926546335169198874
+    second: RoundExplosion_358
+  - first:
+      213: 7517973499032490479
+    second: RoundExplosion_359
+  - first:
+      213: 4375238398806564227
+    second: RoundExplosion_360
+  - first:
+      213: -4851750746952178522
+    second: RoundExplosion_361
+  - first:
+      213: 8445065827731729082
+    second: RoundExplosion_362
+  - first:
+      213: -6536414677770088233
+    second: RoundExplosion_363
+  - first:
+      213: 6046491875125147025
+    second: RoundExplosion_364
+  - first:
+      213: 481905658062115495
+    second: RoundExplosion_365
+  - first:
+      213: -841071219658133598
+    second: RoundExplosion_366
+  - first:
+      213: 6203899473483666128
+    second: RoundExplosion_367
+  - first:
+      213: 5285690717431970425
+    second: RoundExplosion_368
+  - first:
+      213: 8322955022813157760
+    second: RoundExplosion_369
+  - first:
+      213: -670747393167590052
+    second: RoundExplosion_370
+  - first:
+      213: 7424367039408510093
+    second: RoundExplosion_371
+  - first:
+      213: -9165598018148878503
+    second: RoundExplosion_372
+  - first:
+      213: 5345400928598339100
+    second: RoundExplosion_373
+  - first:
+      213: 728777246977384312
+    second: RoundExplosion_374
+  - first:
+      213: -2952251461313956309
+    second: RoundExplosion_375
+  - first:
+      213: -8564436135866724809
+    second: RoundExplosion_376
+  - first:
+      213: -3051009200683387121
+    second: RoundExplosion_377
+  - first:
+      213: 6521303588983070927
+    second: RoundExplosion_378
+  - first:
+      213: -3964161381162497681
+    second: RoundExplosion_379
+  - first:
+      213: 3663768683824897546
+    second: RoundExplosion_380
+  - first:
+      213: 393981673896118311
+    second: RoundExplosion_381
+  - first:
+      213: 1726433726277663096
+    second: RoundExplosion_382
+  - first:
+      213: -725373632542534172
+    second: RoundExplosion_383
+  - first:
+      213: 5549415986739629700
+    second: RoundExplosion_384
+  - first:
+      213: 3335595455199138379
+    second: RoundExplosion_385
+  - first:
+      213: -5218787540734399636
+    second: RoundExplosion_386
+  - first:
+      213: -2103106861106147508
+    second: RoundExplosion_387
+  - first:
+      213: 3687542496562447907
+    second: RoundExplosion_388
+  - first:
+      213: -7937310097333628751
+    second: RoundExplosion_389
+  - first:
+      213: -8702564477407960202
+    second: RoundExplosion_390
+  - first:
+      213: 324430195289376628
+    second: RoundExplosion_391
+  - first:
+      213: -1917210159601308280
+    second: RoundExplosion_392
+  - first:
+      213: -99691851336271323
+    second: RoundExplosion_393
+  - first:
+      213: 1778090906566573513
+    second: RoundExplosion_394
+  - first:
+      213: -5686992876635721860
+    second: RoundExplosion_395
+  - first:
+      213: 4381233561631351663
+    second: RoundExplosion_396
+  - first:
+      213: 6521830467866320124
+    second: RoundExplosion_397
+  - first:
+      213: 7871576794579290252
+    second: RoundExplosion_398
+  - first:
+      213: -2413767050519754439
+    second: RoundExplosion_399
+  - first:
+      213: 6887570605947228840
+    second: RoundExplosion_400
+  - first:
+      213: 6512522554145670198
+    second: RoundExplosion_401
+  - first:
+      213: 8237681858716120100
+    second: RoundExplosion_402
+  - first:
+      213: 4278985427510751267
+    second: RoundExplosion_403
+  - first:
+      213: 8023114525562113187
+    second: RoundExplosion_404
+  - first:
+      213: 7850712266453522495
+    second: RoundExplosion_405
+  - first:
+      213: 4485754139395148693
+    second: RoundExplosion_406
+  - first:
+      213: -237819120193657632
+    second: RoundExplosion_407
+  - first:
+      213: -5934288248353781349
+    second: RoundExplosion_408
+  - first:
+      213: 3983713523707750381
+    second: RoundExplosion_409
+  - first:
+      213: -6768265725318503143
+    second: RoundExplosion_410
+  - first:
+      213: -6662846996376100645
+    second: RoundExplosion_411
+  - first:
+      213: 6289074501356220134
+    second: RoundExplosion_412
+  - first:
+      213: -7099609128402608364
+    second: RoundExplosion_413
+  - first:
+      213: -4499174603660198570
+    second: RoundExplosion_414
+  - first:
+      213: -5420242966892411894
+    second: RoundExplosion_415
+  - first:
+      213: 878233506834085629
+    second: RoundExplosion_416
+  - first:
+      213: 2846995191901552699
+    second: RoundExplosion_417
+  - first:
+      213: 3372422411199537332
+    second: RoundExplosion_418
+  - first:
+      213: -6173097749123256491
+    second: RoundExplosion_419
+  - first:
+      213: 103837585031575210
+    second: RoundExplosion_420
+  - first:
+      213: 5257644485421347438
+    second: RoundExplosion_421
+  - first:
+      213: 3658879072126552372
+    second: RoundExplosion_422
+  - first:
+      213: -3810996798516433797
+    second: RoundExplosion_423
+  - first:
+      213: 6588993888727649704
+    second: RoundExplosion_424
+  - first:
+      213: -2162591450656309464
+    second: RoundExplosion_425
+  - first:
+      213: -901081137763283338
+    second: RoundExplosion_426
+  - first:
+      213: -882744465067575184
+    second: RoundExplosion_427
+  - first:
+      213: -7253613439968658886
+    second: RoundExplosion_428
+  - first:
+      213: 1075037706180036414
+    second: RoundExplosion_429
+  - first:
+      213: -7507574866927155760
+    second: RoundExplosion_430
+  - first:
+      213: 1740897120823947889
+    second: RoundExplosion_431
+  - first:
+      213: -203662095805094135
+    second: RoundExplosion_432
+  - first:
+      213: 3215725955521214247
+    second: RoundExplosion_433
+  - first:
+      213: 1654322187153073639
+    second: RoundExplosion_434
+  - first:
+      213: -1300014670376336122
+    second: RoundExplosion_435
+  - first:
+      213: -6708550260902366074
+    second: RoundExplosion_436
+  - first:
+      213: 8980500230132254444
+    second: RoundExplosion_437
+  - first:
+      213: 8584015038680686993
+    second: RoundExplosion_438
+  - first:
+      213: -397633484079246524
+    second: RoundExplosion_439
+  - first:
+      213: -3111831603409670555
+    second: RoundExplosion_440
+  - first:
+      213: 4606987624545817450
+    second: RoundExplosion_441
+  - first:
+      213: 1403075848166502153
+    second: RoundExplosion_442
+  - first:
+      213: 4963926093993268037
+    second: RoundExplosion_443
+  - first:
+      213: -8818595962035368314
+    second: RoundExplosion_444
+  - first:
+      213: 6883447363688877764
+    second: RoundExplosion_445
+  - first:
+      213: -1311829820893980438
+    second: RoundExplosion_446
+  - first:
+      213: -994553088403071554
+    second: RoundExplosion_447
+  - first:
+      213: 441164883327626468
+    second: RoundExplosion_448
+  - first:
+      213: -5148103491313245230
+    second: RoundExplosion_449
+  - first:
+      213: 5070516112740168095
+    second: RoundExplosion_450
+  - first:
+      213: -5908664756676552352
+    second: RoundExplosion_451
+  - first:
+      213: 285345303990614799
+    second: RoundExplosion_452
+  - first:
+      213: -1479031512835953401
+    second: RoundExplosion_453
+  - first:
+      213: -4230299303621781606
+    second: RoundExplosion_454
+  - first:
+      213: -6090493767925487419
+    second: RoundExplosion_455
+  - first:
+      213: -9131187665429337853
+    second: RoundExplosion_456
+  - first:
+      213: 3541998212619495433
+    second: RoundExplosion_457
+  - first:
+      213: 2378173149563261175
+    second: RoundExplosion_458
+  - first:
+      213: 2098827815441087464
+    second: RoundExplosion_459
+  - first:
+      213: -6468182113713185201
+    second: RoundExplosion_460
+  - first:
+      213: -6895079119175578844
+    second: RoundExplosion_461
+  - first:
+      213: 6059943477145809874
+    second: RoundExplosion_462
+  - first:
+      213: 8468753761390888783
+    second: RoundExplosion_463
+  - first:
+      213: 5587737393959881001
+    second: RoundExplosion_464
+  - first:
+      213: 488984752180801117
+    second: RoundExplosion_465
+  - first:
+      213: 2677950292744818477
+    second: RoundExplosion_466
+  - first:
+      213: 5545224491065251582
+    second: RoundExplosion_467
+  - first:
+      213: 492662266160137592
+    second: RoundExplosion_468
+  - first:
+      213: 3435706584130495211
+    second: RoundExplosion_469
+  - first:
+      213: -843882574351102473
+    second: RoundExplosion_470
+  - first:
+      213: -3496197181588223297
+    second: RoundExplosion_471
+  - first:
+      213: 3462784939441885823
+    second: RoundExplosion_472
+  - first:
+      213: 1831725796417708086
+    second: RoundExplosion_473
+  - first:
+      213: 5668358014442150164
+    second: RoundExplosion_474
+  - first:
+      213: 4161546044392986727
+    second: RoundExplosion_475
+  - first:
+      213: -1808934506170351709
+    second: RoundExplosion_476
+  - first:
+      213: -4049162654869202409
+    second: RoundExplosion_477
+  - first:
+      213: -1386765583003056956
+    second: RoundExplosion_478
+  - first:
+      213: -7743075547686076271
+    second: RoundExplosion_479
+  - first:
+      213: 3394880608054303364
+    second: RoundExplosion_480
+  - first:
+      213: 1720820681514139009
+    second: RoundExplosion_481
+  - first:
+      213: -6027715582180431463
+    second: RoundExplosion_482
+  - first:
+      213: -8547627772272451557
+    second: RoundExplosion_483
+  - first:
+      213: 3756717023081140931
+    second: RoundExplosion_484
+  - first:
+      213: 7870303772282031477
+    second: RoundExplosion_485
+  - first:
+      213: -7910759782589114999
+    second: RoundExplosion_486
+  - first:
+      213: -2482298150968233362
+    second: RoundExplosion_487
+  - first:
+      213: 5088222620932602067
+    second: RoundExplosion_488
+  - first:
+      213: -1022115484545603337
+    second: RoundExplosion_489
+  - first:
+      213: -4391322931797388669
+    second: RoundExplosion_490
+  - first:
+      213: -6398856287355686376
+    second: RoundExplosion_491
+  - first:
+      213: 2572135945538522874
+    second: RoundExplosion_492
+  - first:
+      213: 8114459652628401001
+    second: RoundExplosion_493
+  - first:
+      213: 4406491594627929212
+    second: RoundExplosion_494
+  - first:
+      213: 5952631479399528527
+    second: RoundExplosion_495
+  - first:
+      213: -7194664576052185129
+    second: RoundExplosion_496
+  - first:
+      213: -1225370440116354047
+    second: RoundExplosion_497
+  - first:
+      213: -1735925570090961574
+    second: RoundExplosion_498
+  - first:
+      213: 8362012921316885113
+    second: RoundExplosion_499
+  - first:
+      213: -633788563484159193
+    second: RoundExplosion_500
+  - first:
+      213: 3190029416954214185
+    second: RoundExplosion_501
+  - first:
+      213: 7733733234807856968
+    second: RoundExplosion_502
+  - first:
+      213: 7726941374817342070
+    second: RoundExplosion_503
+  - first:
+      213: 5070118382656453657
+    second: RoundExplosion_504
+  - first:
+      213: 1708699429181196141
+    second: RoundExplosion_505
+  - first:
+      213: 4930542653506672179
+    second: RoundExplosion_506
+  - first:
+      213: -8171742246907481577
+    second: RoundExplosion_507
+  - first:
+      213: -2034948974404287061
+    second: RoundExplosion_508
+  - first:
+      213: 7046635770382587983
+    second: RoundExplosion_509
+  - first:
+      213: -5184459709232805694
+    second: RoundExplosion_510
+  - first:
+      213: -9180206257625289703
+    second: RoundExplosion_511
+  - first:
+      213: 4879816106711683845
+    second: RoundExplosion_512
+  - first:
+      213: -2869505524370619261
+    second: RoundExplosion_513
+  - first:
+      213: -2151003992539473671
+    second: RoundExplosion_514
+  - first:
+      213: 2844302031091170729
+    second: RoundExplosion_515
+  - first:
+      213: -3370488553267608005
+    second: RoundExplosion_516
+  - first:
+      213: -3852035943722390233
+    second: RoundExplosion_517
+  - first:
+      213: -9206135570652964439
+    second: RoundExplosion_518
+  - first:
+      213: 189646983810185550
+    second: RoundExplosion_519
+  - first:
+      213: -5203972156322471732
+    second: RoundExplosion_520
+  - first:
+      213: 6800927548968727510
+    second: RoundExplosion_521
+  - first:
+      213: -6299043808790674463
+    second: RoundExplosion_522
+  - first:
+      213: 6673044647374812606
+    second: RoundExplosion_523
+  - first:
+      213: 7714299285083581796
+    second: RoundExplosion_524
+  - first:
+      213: 6262988142966001696
+    second: RoundExplosion_525
+  - first:
+      213: -3859551791612106051
+    second: RoundExplosion_526
+  - first:
+      213: -5786560331918805352
+    second: RoundExplosion_527
+  - first:
+      213: -6609643672951639758
+    second: RoundExplosion_528
+  - first:
+      213: 5887546407787182575
+    second: RoundExplosion_529
+  - first:
+      213: 7674940425218277460
+    second: RoundExplosion_530
+  - first:
+      213: 7583522848086469953
+    second: RoundExplosion_531
+  - first:
+      213: 3204838542317165122
+    second: RoundExplosion_532
+  - first:
+      213: 6923916445179091763
+    second: RoundExplosion_533
+  - first:
+      213: 6633213110241192465
+    second: RoundExplosion_534
+  - first:
+      213: 6940419401648098692
+    second: RoundExplosion_535
+  - first:
+      213: 2302395317226685530
+    second: RoundExplosion_536
+  - first:
+      213: -1504474738004994206
+    second: RoundExplosion_537
+  - first:
+      213: 8005405040223618053
+    second: RoundExplosion_538
+  - first:
+      213: -4690541188879799863
+    second: RoundExplosion_539
+  - first:
+      213: 8640358499211465483
+    second: RoundExplosion_540
+  - first:
+      213: -8919622721128208255
+    second: RoundExplosion_541
+  - first:
+      213: -6802968777705671237
+    second: RoundExplosion_542
+  - first:
+      213: 1391456473089007780
+    second: RoundExplosion_543
+  - first:
+      213: 2000478670491402563
+    second: RoundExplosion_544
+  - first:
+      213: 3916798237185180726
+    second: RoundExplosion_545
+  - first:
+      213: 6525066829702962242
+    second: RoundExplosion_546
+  - first:
+      213: -7068447176107782093
+    second: RoundExplosion_547
+  - first:
+      213: 1768453757692974337
+    second: RoundExplosion_548
+  - first:
+      213: 1237645191701535231
+    second: RoundExplosion_549
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoundExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530002cddfdb85449f80fb002643336
+      internalID: -4868322531500439159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07680f5551fddfc4ea1630931b996ef1
+      internalID: -4940524317232446815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3a35017b760e4b997ccd856a8b020
+      internalID: 220500271445388165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b340811926044682c01a02be4f6e7
+      internalID: 6873738943896769840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c132aa02571cf14d8b451fefeabbaf0
+      internalID: 3782734282106808808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655d5e60023cf6541a63a0fef634d5e1
+      internalID: -4806294547619058364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a20344620d37b54bb638376715826d3
+      internalID: -6131833038425832860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b59c54c60acd47a892889be23b83b
+      internalID: 4912687696285251701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d7c11f6d65d74bb093b4d5c1836a9
+      internalID: -3697295553384210048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a39e727805fe0f4085b8b0b36165b89
+      internalID: -58353164597626231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496dec72c7ef094f99026db2dd4bf42
+      internalID: -6678447095662885113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe34fad9f03cd74db290d656ecd3952
+      internalID: 8637022439770161106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf063ceac8dd54785a4cc0fa5262b9
+      internalID: 2317534848761090736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46475acf1b93e5f4dbfcbd7059126813
+      internalID: 3695058350751492248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94578cc4c372bbf429f007d56914aacd
+      internalID: -8411193786186794781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d9b35460bc384b85bea16eee26c88
+      internalID: 2506946123828955774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa1ef7814a68d645bd38dc52bb61fea
+      internalID: -865685762673839113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5b8bd466efa64990b601282e0e38a
+      internalID: 6647596432369997064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ead8d4b21e1884c800337ccbd24d56
+      internalID: -5894390678704683347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e83d80ea8e1a46bbbc4fc38668eed
+      internalID: -5387563185873788185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bcb80cd862a1c4ebf2c0c65d61fcf3
+      internalID: -3207152669094066296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c82e2782e108746ae67f36bda9ead0
+      internalID: 2631281047380555087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3af2c572bf46e14cbc4c10005bce7ad
+      internalID: -3674409266036839760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c675b7102c0294aa9c798913a2639d
+      internalID: 7925475821505726172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39c53ba635783459c125c108aaa5a1
+      internalID: 3740521366410625458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f2857982c9614c8c901c62d461d01
+      internalID: -834060099894142423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bc2b383c8b394a927dae83b65f459
+      internalID: -8635303553782798439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb60ce08285d34498b2d99bbe95967
+      internalID: -2410447817198034460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e1a8b0106c374fa03474b5883320b
+      internalID: -4543276980654179831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb47d38e976347345b70b51a4e3bfea4
+      internalID: 5966024330157579932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c8eff0c039c042b7390f42b583d46
+      internalID: -8761829393555894507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46d40282a872042b13840571464a21
+      internalID: -6500173142779454300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5499b614c325b341873e0a115098cbc
+      internalID: -8933229835941594900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0062a620c24df2d40a1d3e00e9d75f93
+      internalID: 7029934142117535693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d4eb50fd58c04a9fff8c17c27c016
+      internalID: -876346002557194672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120919bcdfa3e244ebf03dc85bc70fba
+      internalID: -4624379187360305741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7743aae3c24c4b9a7a8218be4e98e
+      internalID: 2012782810929002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5136e9f57a2564aac6473db37ce578
+      internalID: 2736537586135345802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9885cf69ea78364db9959370217acb0
+      internalID: -864084505611325430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962c90bc3c6df847a64eb6f61278121
+      internalID: 219957881936955281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e42de8ecadd246a5169a06e1bc013
+      internalID: 7367082213586647742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d5f7c73f40e24fa18079be695261a
+      internalID: 165967381183163677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e58221702fa844945d365580ef446
+      internalID: -8414827491872030897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc69d4c08cc8b48aca8482eb5ec55b
+      internalID: 545496708435894723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c4ea42adec1cd48aa99a19ac7e5b02
+      internalID: -4943693057529745812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2decab8c0239408f72657f89f9160
+      internalID: 8515427418342955532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d43290de9765f4c8deb5fb67413f9a
+      internalID: -2223399699939889705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28fb18781164df4fbc3b404c4e3898b
+      internalID: -3275439112122173243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b9465f450c4c48a0a365e94c6c304
+      internalID: -7864596894261902414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8a66fb728873c429213b9f2197c5ef
+      internalID: -1028955063464941758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e197844c5319754bb0a53a315c0f13f
+      internalID: 1798664923461695165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50733d27a98c64e9bee22055dde8d6
+      internalID: -5305358254406081055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4645c42b013f4643a8d58db8debd0c6
+      internalID: 1702483274762490864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d9107c28c78640bc35322af20f1fe
+      internalID: -4650527217538175659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9269c649aea2334d8f643ba147ad621
+      internalID: -5099606884704957099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a8196c15ed4840840d4b1681640bf
+      internalID: 5981260829182881223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010a6d85a10b42429a14e070862c494
+      internalID: -7468610785537392711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7d9314a5cba943a808abd71019e01
+      internalID: 4370930966822654473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3851b2fa14ff4287d11610acbff3b
+      internalID: 6163991870178888368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e09e70c6c31f439f2a3277ea96e9a
+      internalID: -8517998515918695966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a4ed808a0b664a8ac9210dd351ab4
+      internalID: 1772269703776158352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2340140cf00c249b204564e05aca11
+      internalID: -6296331240591624641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5220082c4e45f747864de930cd4b3e2
+      internalID: -6494632378144435265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239fc3cda1ca0f46ba75ed7193ca12d
+      internalID: -5903135883874859121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9543b285a2418f449437003f265b05d
+      internalID: -175215653674010667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843690c28ab2ba540b2e14c798d6b2d2
+      internalID: -6809162617282077590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7d2db5ae1a4e428ee53d76fb10415
+      internalID: 5730294775129502407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b16181f2a7f6749a41953dc7d78848
+      internalID: 4293780420682865746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705702e88e05ca64d982e82a285008b8
+      internalID: 6040486116664507341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7d3c65344cd904bb21430c00eda880
+      internalID: -970453264865902748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81f2134965da9943986df3678e15978
+      internalID: 7066343520671433298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 824d8cb5743c16a4490dfd8d35cf794b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
